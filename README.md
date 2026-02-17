@@ -1,1 +1,2 @@
-# travel-planner
+## Contributors
+- Ankitha Reddy
